@@ -19,7 +19,7 @@ Pastikan Anda telah menginstal Python versi 3.7 atau lebih baru. Selain itu, And
 ## Instalasi
 1. **Clone repositori ini**:
    ```bash
-git clone https://github.com/ariellacahyani/bike-sharing-dashboard
+git clone https://github.com/ariellaacahyani/bike-sharing-dashboard
 cd bike-sharing-dashboard
 
 python -m venv venv
